@@ -1,0 +1,54 @@
+Name: Saitou Haruki
+Birth: 1995.10.31
+Address: 3-6-14 Shinjuku, Shinjuku-ku, Tokyo 160-0022
+Title: Python and JavaScript Engineer | Scalable Web Apps + API Integrations
+Overview:
+I’m a Web and Data Visualization Engineer with a strong background in SaaS development, custom AI solutions, and third-party API integration. Over the past few years, I’ve worked with startups, digital agencies, and established businesses to build applications that are not only fast and reliable but also smarter through the use of automation and AI.
+My approach combines modern web development with data-driven insight. I don’t just deliver code, I help create systems that improve workflows, uncover trends, and support better decision-making. Recent projects include designing an interactive Power BI dashboard for a healthcare client, integrating OpenAI models into a customer support platform, and developing a full-stack SaaS product that scaled from prototype to production.
+I focus on building long-term, maintainable solutions. That means clean and well-structured code, clear documentation, and performance-oriented design. Clients often work with me not only to launch new products but also to optimize and extend existing systems.
+If you’re looking for a developer who can bridge web engineering with data science, and who cares about delivering results that move your business forward, I’d be glad to help.
+Core Services
+Web and SaaS development
+System integration and API automation
+Dashboard and data visualization tools
+Long-term product maintenance and optimization
+Technical Skills
+Languages: Python (Django, FastAPI, Flask), JavaScript (React, Node.js), C#, PHP (Laravel)
+ Databases: PostgreSQL, MongoDB, MySQL, SQLite
+ Automation and AI: OpenAI API, workflow automation, Python scripting
+ Cloud and DevOps: Docker, AWS, Git, Linux, CI/CD pipelines
+ Tools: Redis, Celery, Power BI, REST API, GraphQL
+Professional Experience
+Full-Stack Software Engineer
+Fusic Inc. (Fukuoka, Japan)
+ 2022 to 2024
+ Fusic Inc. is a mid-size Japanese IT company specializing in cloud systems, custom development, and data solutions.
+Developed SaaS platforms using Django, FastAPI, React, and PostgreSQL.
+Built a healthcare data visualization dashboard that improved client reporting accuracy by more than 30 percent.
+Integrated OpenAI models into a customer communication platform and reduced manual support workload by over 40 percent.
+Implemented Docker-based development environments and CI/CD pipelines for automated releases.
+Created Python automation scripts to reduce repetitive internal tasks.
+Key achievements:
+Scaled a Django and React SaaS product from prototype to more than 3,500 active users
+Achieved a 25 to 30 percent improvement in API response times using caching and optimized queries
+Backend Developer (Python and Node.js)
+Future Spirits Co., Ltd. (Kyoto, Japan)
+ 2019 to 2022
+ Future Spirits is a Japanese cloud and hosting company that provides web application development and managed cloud services.
+Built backend microservices using FastAPI and Node.js for e-commerce and logistics clients.
+Designed secure authentication flows and user permission systems.
+Developed dashboards and analytics tools used by retail and finance clients across Japan.
+Improved PostgreSQL and MongoDB query performance to handle large-scale data.
+Worked with distributed teams and supported international clients remotely.
+Key achievements:
+Improved API throughput by approximately 25 percent through refactoring and caching
+Built ETL processes that handled more than two million records each month
+Education
+Bachelor of Engineering in Computer Science
+Tokyo University of Technology (Tokyo, Japan)
+ Graduated: 2018
+Completed a 4-year engineering program with a focus on software development, web engineering, and data analysis.
+Key courses: Algorithms and Data Structures, Database Systems, Web Application Development, Cloud Computing, Artificial Intelligence.
+Capstone project: Developed a web-based data visualization platform that integrated multiple APIs and provided interactive analytics dashboards, simulating real-world SaaS product development.
+Participated in programming contests and hackathons, gaining practical experience in Python, JavaScript, and full-stack development.
+Gained a strong foundation in object-oriented programming, RESTful API design, and software engineering best practices.
