@@ -156,12 +156,12 @@ export default function Home() {
               
               <div className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
                 <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }} transition={{ duration: 0.2 }}>
-                  <Button size="lg" onClick={() => { document.getElementById("experience")?.scrollIntoView({ behavior: "smooth }); }} className="rounded-none bg-black text-white hover:bg-transparent hover:text-black hover:border-black border border-transparent transition-all duration-300 px-8 h-12 text-base">
+                  <Button size="lg" variant="outline" onClick={() => { document.getElementById("experience")?.scrollIntoView({ behavior: "smooth" }); }} className="rounded-none bg-black text-white hover:bg-transparent hover:text-black hover:border-black border border-transparent transition-all duration-300 px-8 h-12 text-base">
                     View Experience
                   </Button>
                 </motion.div>
                 <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }} transition={{ duration: 0.2 }}>
-                  <Button size="lg" variant="outline" onClick={() => { document.getElementById("contact")?.scrollIntoView({ behavior: "smooth }); }} className="rounded-none border-slate-300 hover:bg-transparent hover:text-black hover:border-black transition-all duration-300 px-8 h-12 text-base">
+                  <Button size="lg" variant="outline" onClick={() => { document.getElementById("contact")?.scrollIntoView({ behavior: "smooth" }); }} className="rounded-none border-slate-300 hover:bg-transparent hover:text-black hover:border-black transition-all duration-300 px-8 h-12 text-base">
                     Contact Me
                   </Button>
                 </motion.div>
